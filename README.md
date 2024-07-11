@@ -8,6 +8,6 @@ Pull Request에 성공하여 merge될 경우 https://minchul.net/collaboration �
 
 ---
 
-### Pull Request Practice
+### Pull Request Practice 
 
 Please add one line of `<li>your GitHub ID</li>` and send me a Pull Request.
